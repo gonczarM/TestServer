@@ -49,19 +49,4 @@ Add some style to your site and feel free to style it however you want! Here are
 Your commit message should read something like: <br>
 "added styling for resume site"
 
-## Adding Navigation
-1. Create a nav bar with the links to LinkedIn, Twitter (whichever links you had created earlier); Remove the links section that you had created earlier in the homework
-1. In the nav bar, also create a link to the 'index.html' page (maybe give it a name of `Home Page` in the bar), and a link to a file called "projects.html" (maybe call this `Projects` in the bar)
-1. Create another html file in this folder called 'projects.html'
-1. Copy the contents of the nav bar and information from the 'head' tag of your `index.html` file and paste it into your `projects.html` file<
-1. Inside `projects.html`, create a level-two heading and add the text `Projects`
-1. Check to make sure that your links work! When you click on "Projects" in your nav bar, does it open the `projects.html` document?
-1. In `projects.html`, add three projects that Grumpy Cat has worked on. To do this simply, you can use an ordered list. If you're up for a little more of a challenge, create three columns: each column should contain the title and a description of their three most recent, successful projects
-
-:red_circle: **Commit your work!** <br>
-Your commit message should read something like: <br>
-"added project.html page and content - finished resume"
-
----
-
 
